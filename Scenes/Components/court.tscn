@@ -4,3 +4,7 @@
 
 [node name="Court" type="Node2D" unique_id=1261691939]
 script = ExtResource("1_sdw7l")
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1116000348]
+offset_right = 40.0
+offset_bottom = 40.0
