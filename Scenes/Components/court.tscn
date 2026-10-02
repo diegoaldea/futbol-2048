@@ -6,3 +6,31 @@
 [node name="Court" type="Node2D" unique_id=1261691939]
 script = ExtResource("1_sdw7l")
 point = ExtResource("2_coj2s")
+
+[node name="Point" type="Sprite2D" parent="." unique_id=1537873362]
+position = Vector2(48, 32)
+texture = ExtResource("2_coj2s")
+
+[node name="Point2" type="Sprite2D" parent="." unique_id=288389725]
+position = Vector2(64, 32)
+texture = ExtResource("2_coj2s")
+
+[node name="Point3" type="Sprite2D" parent="." unique_id=2098452498]
+position = Vector2(80, 32)
+texture = ExtResource("2_coj2s")
+
+[node name="Point4" type="Sprite2D" parent="." unique_id=1575491665]
+position = Vector2(96, 32)
+texture = ExtResource("2_coj2s")
+
+[node name="Point5" type="Sprite2D" parent="." unique_id=1299572802]
+position = Vector2(112, 32)
+texture = ExtResource("2_coj2s")
+
+[node name="Point6" type="Sprite2D" parent="." unique_id=500272723]
+position = Vector2(128, 32)
+texture = ExtResource("2_coj2s")
+
+[node name="Point7" type="Sprite2D" parent="." unique_id=1619281758]
+position = Vector2(144, 32)
+texture = ExtResource("2_coj2s")
