@@ -1,10 +1,8 @@
 [gd_scene format=3 uid="uid://dhj4plfui0u6k"]
 
 [ext_resource type="Script" uid="uid://d851rjw1nwji" path="res://Scripts/court.gd" id="1_sdw7l"]
+[ext_resource type="Texture2D" uid="uid://c0no2olkimgmw" path="res://Sprites/point.png" id="2_coj2s"]
 
 [node name="Court" type="Node2D" unique_id=1261691939]
 script = ExtResource("1_sdw7l")
-
-[node name="ColorRect" type="ColorRect" parent="." unique_id=1116000348]
-offset_right = 40.0
-offset_bottom = 40.0
+point = ExtResource("2_coj2s")
